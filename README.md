@@ -1,4 +1,4 @@
-# Copy Cougar
+# Copy Ocelot
 
 ### Introduction
 
