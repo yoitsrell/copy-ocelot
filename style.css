@@ -1,0 +1,19 @@
+.header {
+    display: grid;
+    grid-template-columns: 1fr 30fr 1fr 1fr 1fr;
+    grid-template-rows: 2fr 18fr;
+    grid-column-gap: 20px;
+    justify-items: start;
+    align-items: start;
+    grid-row-gap: 20px
+}
+
+.linkBar {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 2fr;
+    grid-column-gap: 35px;
+    justify-items: start;
+    align-items: start;
+    grid-row-gap: 20px;
+}
